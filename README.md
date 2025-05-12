@@ -14,7 +14,8 @@ Let's connect and make an impact together.
 - **Healthcare Analytics:** ICD/CPT codes · Claims Data · EHR (Epic)
 
 
-** Featured Projects**
+## Featured Projects
+
 ### 🏡 AirBnB Analytics (Nov 2024) | [Website](#) | [Demo](#)
 **Purpose:** Determine which Airbnb listings are most attractive for vacation rentals based on revenue performance  
 - Cleaned and analyzed listing + calendar data in Google Sheets  
